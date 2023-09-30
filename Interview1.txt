@@ -1,0 +1,87 @@
+Sergii Fradkov10:43 AM
+& AND
+-------
+0 & 0
+0 & 1
+1 & 0
+1 & 1
+
+| OR
+-------
+0 | 0
+0 | 1
+1 | 0
+1 | 1
+
+^ XOR
+-------
+0 ^ 0
+0 ^ 1
+1 ^ 0
+1 ^ 1
+& &&
+Sergii Fradkov10:44 AM
+int y = 5 & 1;
+int x = 0x21;
+IDisposable
+Sergii Fradkov10:50 AM
+private static void Main(string[] args)
+{
+    var i = 5;
+    var a = i++;
+    var b = ++i;
+    Console.WriteLine($"a={a} b={b}");
+}
+            services
+                .AddTransient<ICotRenderer, ExcelCotRenderer>()
+                .AddSingleton<IHttpContextAccessor, HttpContextAccessor>()
+                .AddScoped<ITokenSource, HttpContextTokenSource>();
+Sergii Fradkov10:52 AM
+.aaa {}
+#aaa {}
+aaa {}
+<div></div>
+Sergii Fradkov10:54 AM
+colors #ff0000, #cccccc, #000000
+Sergii Fradkov10:56 AM
+visibility: hidden
+display: none
+<body>
+  <div id="d1" style="position: fixed">
+    <div id="d2" style="position: relative">
+      <div id="d3">
+        <div id="d4" style="position: absolute; left: 10px; top: 10px;"
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+Sergii Fradkov10:59 AM
+JPG, BMP, GIF, PNG, TIF, ICO, SVG
+Sergii Fradkov11:02 AM
+shift, unshift, push, pop, map
+Sergii Fradkov11:04 AM
+[1,2,3].unshift(0)
+[0,1,2,3]
+const a1 = [1, 2, 3];
+const a2 = [5, ...a1, 6];
+console.log(a2);
+Sergii Fradkov11:06 AM
+const o1 = {a:1, b:2, c:['a', 'b']};
+const o2 = {...o1};
+o1.c[0] = 'z';
+console.log(o2);
+Sergii Fradkov11:11 AM
+/tomatoes
+Sergii Fradkov11:12 AM
+CORS
+You11:13 AM
+255.255.0.0
+Sergii Fradkov11:15 AM
+One way hash functions
+Sergii Fradkov11:21 AM
+O(N)
+Sergii Fradkov11:22 AM
+O(log N)
+log 2 16=
+itx-gbge-xre
